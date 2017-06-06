@@ -9,6 +9,7 @@
 <body>
 Hello Gaurav Test Page created..
   one more changes
-  Second eclipse changes.
+  <% out.print("Gaurav  eclipse"); %>
+
 </body>
 </html>
